@@ -1,0 +1,232 @@
+{
+  "generated": "2026-11-07T06:39:03.102997+00:00",
+  "global": [
+    {
+      "title": "AI stocks climb after trillions wiped from market values",
+      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
+      "pub_int": 1793999185,
+      "kind": "global",
+      "score": 400.0
+    },
+    {
+      "title": "Four midterms takeaways for 2028 White House race",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png",
+      "pub_int": 1793981542,
+      "kind": "global",
+      "score": 398.5
+    },
+    {
+      "title": "Two dead after bus crashes in France, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/800/live/92c81290-d9cb-11f1-bb8e-efaa31738708.jpg",
+      "pub_int": 1793979232,
+      "kind": "global",
+      "score": 397.0
+    },
+    {
+      "title": "New wave of bomb threats hit European airlines",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+      "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c047/live/33f77d10-d9ed-11f1-a701-fddedf244c16.jpg",
+      "pub_int": 1793978735,
+      "kind": "global",
+      "score": 395.5
+    },
+    {
+      "title": "Paraguay's President Santiago Peña impeached and arrested",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg",
+      "pub_int": 1794021900,
+      "kind": "global",
+      "score": 394.0
+    },
+    {
+      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/800/live/4f47ccc0-d9f0-11f1-bb10-cdca6001fbcf.jpg",
+      "pub_int": 1793976363,
+      "kind": "global",
+      "score": 392.5
+    },
+    {
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/26ed/live/81d3a0d0-d9ee-11f1-bbe5-797ee05bee69.jpg",
+      "pub_int": 1793987042,
+      "kind": "global",
+      "score": 391.0
+    },
+    {
+      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+      "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+      "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4fd6/live/ad29b050-da2d-11f1-ab60-69d917fc430c.jpg",
+      "pub_int": 1794008768,
+      "kind": "global",
+      "score": 389.5
+    },
+    {
+      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+      "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg",
+      "pub_int": 1793979042,
+      "kind": "global",
+      "score": 388.0
+    },
+    {
+      "title": "Russian extremist group denies sending hoax bomb threats",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/dddd/live/b610ac80-d9da-11f1-b441-2b33b063138f.jpg",
+      "pub_int": 1793969498,
+      "kind": "global",
+      "score": 386.5
+    },
+    {
+      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d5f5/live/a7b86be0-d96d-11f1-9fd0-cdf612d1539f.jpg",
+      "pub_int": 1793923377,
+      "kind": "global",
+      "score": 385.0
+    },
+    {
+      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
+      "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/698e/live/fc50b650-d9fc-11f1-93e1-3b657b665bcf.jpg",
+      "pub_int": 1793983861,
+      "kind": "global",
+      "score": 383.5
+    },
+    {
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg",
+      "pub_int": 1794001790,
+      "kind": "global",
+      "score": 380.5
+    },
+    {
+      "title": "Somalia's top court rejects president's term extension amid political crisis",
+      "link": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/679b/live/77438af0-d9b1-11f1-bbc7-9574ed12e2df.jpg",
+      "pub_int": 1793953090,
+      "kind": "global",
+      "score": 379.0
+    },
+    {
+      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/800/live/461d3e00-d879-11f1-b441-2b33b063138f.jpg",
+      "pub_int": 1793950421,
+      "kind": "global",
+      "score": 377.5
+    }
+  ],
+  "kenya": [
+    {
+      "title": "KUTRRH nurses call off strike after signing agreement",
+      "link": "https://www.kbc.co.ke/kutrrh-nurses-call-off-strike-after-signing-agreement/",
+      "summary": "About 800 nurses at Kenyatta University Teaching, Referral and Research Hospital (KUTRRH) have called off their planned strike following an agreement with the hospital management that will see their welfare and working conditions improved. The Kenya National Union of Nurses and Midwives (KNUNM) General Secretary Seth Panyako announced that the union had officially and unconditionally [&#8230;] The post KUTRRH nurses call off strike after signing agreement appeared first on KBC Digital .",
+      "img": "https://www.kbc.co.ke/wp-content/uploads/2026/11/HWcTeJlXAAEEZL8.jpg",
+      "pub_int": 1794030089,
+      "kind": "kenya",
+      "score": 400.0
+    },
+    {
+      "title": "AU calls for accountable political leadership at Addis Ababa Summit",
+      "link": "https://www.kbc.co.ke/au-calls-for-accountable-political-leadership-at-addis-ababa-summit/",
+      "summary": "The Chairperson of the African Union (AU) Commission, Mahmoud Ali Youssouf has called for greater accountability, transparency and inclusivity in African political parties to strengthen democratic governance and advance the continent’s development agenda. Speaking at the Second African Political Parties Summit in Addis Ababa, Ethiopia, Youssouf emphasised the critical role of political parties in advancing [&#8230;] The post AU calls for accountable political leadership at Addis Ababa Summit appeared first on KBC Digital .",
+      "img": "https://www.kbc.co.ke/wp-content/uploads/2026/11/HWcIRxzWIAAwbcJ.jpg",
+      "pub_int": 1794026414,
+      "kind": "kenya",
+      "score": 398.5
+    },
+    {
+      "title": "Safaricom Group net income rises 36% to KSh58.2 billion as Ethiopia operations near break-even",
+      "link": "https://www.kbc.co.ke/safaricom-group-net-income-rises-36-to-ksh58-2-billion-as-ethiopia-operations-near-break-even/",
+      "summary": "Safaricom PLC has posted a strong financial performance for the first half of the 2026/2027 financial year, with net income rising by 35.9 per cent to KSh58.2 billion, driven by sustained growth in its Kenyan and Ethiopian operations. The telecommunications giant recorded a 13.1 per cent increase in group service revenue to KSh226.1 billion for [&#8230;] The post Safaricom Group net income rises 36% to KSh58.2 billion as Ethiopia operations near break-even appeared first on KBC Digital .",
+      "img": "https://www.kbc.co.ke/wp-content/uploads/2026/11/safaricom-CEO.jpeg",
+      "pub_int": 1793990679,
+      "kind": "kenya",
+      "score": 397.0
+    },
+    {
+      "title": "PPB experts earn continental recognition in medicines regulation",
+      "link": "https://www.kbc.co.ke/ppb-secures-two-seats-on-african-medicines-agency-technical-committees/",
+      "summary": "The Pharmacy and Poisons Board (PPB) has achieved a significant continental milestone following the appointment of two of its experts to the African Medicines Agency (AMA) Technical Committees, strengthening Kenya’s contribution to medicines regulation and regulatory harmonisation across Africa. The appointments were announced during the Agency’s inaugural week in Kigali, Rwanda, held under the theme [&#8230;] The post PPB experts earn continental recognition in medicines regulation appeared first on KBC Digital .",
+      "img": "https://www.kbc.co.ke/wp-content/uploads/2026/11/IMG-20261106-WA0057.jpg",
+      "pub_int": 1793973536,
+      "kind": "kenya",
+      "score": 395.5
+    },
+    {
+      "title": "Kenya, South Korea deepen agricultural ties through rice self-sufficiency project",
+      "link": "https://www.kbc.co.ke/kenya-south-korea-deepen-agricultural-ties-through-rice-self-sufficiency-project/",
+      "summary": "The K-RiceBelt project is developing dedicated seed production fields in Kirinyaga, with South Korea providing technical and infrastructure support. The post Kenya, South Korea deepen agricultural ties through rice self-sufficiency project appeared first on KBC Digital .",
+      "img": "https://www.kbc.co.ke/wp-content/uploads/2026/11/KENYA-KOREA-3.jpeg",
+      "pub_int": 1793970834,
+      "kind": "kenya",
+      "score": 394.0
+    },
+    {
+      "title": "Kenya cult leader Paul Mackenzie jailed for 200 years",
+      "link": "https://www.kbc.co.ke/kenya-cult-leader-paul-mackenzie-sentenced-to-200-years/",
+      "summary": "Self-proclaimed pastor and cult leader Paul Mackenzie has been sentenced to 200 years in prison for murdering 190 children and one adult. The founder of the Good News International Church was sentenced Friday alongside 28 others at the Mombasa High Court. Lady Justice Diana Kavedza sentenced Mackenzie to 200 years; 15 convicts were sentenced to [&#8230;] The post Kenya cult leader Paul Mackenzie jailed for 200 years appeared first on KBC Digital .",
+      "img": "https://www.kbc.co.ke/wp-content/uploads/2026/11/mackenzie.jpg",
+      "pub_int": 1793968050,
+      "kind": "kenya",
+      "score": 392.5
+    },
+    {
+      "title": "Retirees decry cost of Ksh 65B unremitted pensions",
+      "link": "https://www.kbc.co.ke/retirees-decry-cost-of-ksh-65b-unremitted-pensions/",
+      "summary": "The Association of Retirement Benefits Schemes (ARBS) and the Retirement Benefit Authority (RBA) have decried the rising amount of unremitted retirement funds which currently stand at Ksh 65 billion. The two agencies are now calling for a law to have pensions mainly for civil servants deducted from the Treasury to avoid the current crisis that [&#8230;] The post Retirees decry cost of Ksh 65B unremitted pensions appeared first on KBC Digital .",
+      "img": "https://www.kbc.co.ke/wp-content/uploads/2023/06/Shilling-assets.jpg",
+      "pub_int": 1793964763,
+      "kind": "kenya",
+      "score": 391.0
+    },
+    {
+      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+      "link": "https://www.kbc.co.ke/tanzanian-opposition-leader-found-guilty-of-inciting-unrest-but-acquitted-of-treason/",
+      "summary": "Tanzania&#8217;s main opposition leader, Tundu Lissu, has been found guilty of inciting unrest and sentenced to four years in jail, in a case that has raised concerns about political freedom in the East African country. A panel of three judges at the High Court in Dar es Salaam acquitted him of the more serious offence [&#8230;] The post Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason appeared first on KBC Digital .",
+      "img": "https://www.kbc.co.ke/wp-content/uploads/2026/11/tundu.webp",
+      "pub_int": 1793963710,
+      "kind": "kenya",
+      "score": 389.5
+    },
+    {
+      "title": "Koome warns against political goonism ahead of 2027 polls",
+      "link": "https://www.kbc.co.ke/koome-warns-against-political-goonism-ahead-of-2027-polls/",
+      "summary": "Chief Justice calls for accountability among those recruiting, financing, and directing violent groups, while defending constitutional safeguards on bail and detention. The post Koome warns against political goonism ahead of 2027 polls appeared first on KBC Digital .",
+      "img": "https://www.kbc.co.ke/wp-content/uploads/2026/11/KOOME-GBV.jpeg",
+      "pub_int": 1793962176,
+      "kind": "kenya",
+      "score": 388.0
+    },
+    {
+      "title": "Chinese Premier calls for people-centred internet development and global digital cooperation",
+      "link": "https://www.kbc.co.ke/chinese-premier-calls-for-people-centred-internet-development-and-global-digital-cooperation/",
+      "summary": "Li Qiang urges countries to ensure AI and emerging technologies advance human development, bridge the digital divide and promote equitable global Internet governance. The post Chinese Premier calls for people-centred internet development and global digital cooperation appeared first on KBC Digital .",
+      "img": "https://www.kbc.co.ke/wp-content/uploads/2026/11/LI-QIANG-WORLD-INTERNET-CONFERENCE.jpg",
+      "pub_int": 1793961413,
+      "kind": "kenya",
+      "score": 386.5
+    }
+  ]
+}
