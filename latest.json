@@ -1,0 +1,232 @@
+{
+  "generated": "2026-11-21T07:45:12.725683+00:00",
+  "global": [
+    {
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+      "pub_int": 1795214567,
+      "kind": "global",
+      "score": 400.0
+    },
+    {
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg",
+      "pub_int": 1795245885,
+      "kind": "global",
+      "score": 398.5
+    },
+    {
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg",
+      "pub_int": 1795240809,
+      "kind": "global",
+      "score": 397.0
+    },
+    {
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/800/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
+      "pub_int": 1795246265,
+      "kind": "global",
+      "score": 395.5
+    },
+    {
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+      "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg",
+      "pub_int": 1795214229,
+      "kind": "global",
+      "score": 394.0
+    },
+    {
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/800/live/b01bb4f0-e556-11f1-ad51-c3505e495cd9.jpg",
+      "pub_int": 1795235640,
+      "kind": "global",
+      "score": 392.5
+    },
+    {
+      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg",
+      "pub_int": 1795216137,
+      "kind": "global",
+      "score": 391.0
+    },
+    {
+      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+      "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/800/live/d8e189d0-e52b-11f1-964d-a1d5fe40573e.jpg",
+      "pub_int": 1795219299,
+      "kind": "global",
+      "score": 389.5
+    },
+    {
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/800/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg",
+      "pub_int": 1795211827,
+      "kind": "global",
+      "score": 388.0
+    },
+    {
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
+      "pub_int": 1795208052,
+      "kind": "global",
+      "score": 386.5
+    },
+    {
+      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+      "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a37e/live/01b2ac80-e505-11f1-b40b-5f46e8cf687c.jpg",
+      "pub_int": 1795202869,
+      "kind": "global",
+      "score": 385.0
+    },
+    {
+      "title": "Nearly 600 women killed in South Africa within three months",
+      "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b54a/live/170dbfd0-e4fa-11f1-a8e4-b1e12a49db15.jpg",
+      "pub_int": 1795190116,
+      "kind": "global",
+      "score": 383.5
+    },
+    {
+      "title": "Texas death-row inmate screams as execution takes more than one hour",
+      "link": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
+      "summary": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/19f8/live/7c960b40-e4ce-11f1-8ebd-0fa6091698b5.jpg",
+      "pub_int": 1795178557,
+      "kind": "global",
+      "score": 382.0
+    },
+    {
+      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
+      "link": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/179e/live/c4afc3a0-e4db-11f1-9cc5-e9713e77fd78.jpg",
+      "pub_int": 1795190102,
+      "kind": "global",
+      "score": 380.5
+    },
+    {
+      "title": "South Korea catches 111 students with new measures against exam cheating",
+      "link": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
+      "img": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f32a/live/51464610-e4cb-11f1-8ebd-0fa6091698b5.jpg",
+      "pub_int": 1795169779,
+      "kind": "global",
+      "score": 379.0
+    }
+  ],
+  "kenya": [
+    {
+      "title": "Grand Theft Auto VI takes record $3.8B on first day beating ‘Avengers: Endgame’",
+      "link": "https://www.kbc.co.ke/grand-theft-auto-vi-takes-record-3-8-bn-on-first-day-beating-avengers-endgame/",
+      "summary": "Its first day haul makes the game the biggest entertainment launch in history The post Grand Theft Auto VI takes record $3.8B on first day beating ‘Avengers: Endgame’ appeared first on KBC Digital .",
+      "img": "https://www.kbc.co.ke/wp-content/uploads/2026/11/GTA-6.jpg",
+      "pub_int": 1795237239,
+      "kind": "kenya",
+      "score": 400.0
+    },
+    {
+      "title": "NCTC trains government officials on crisis communication",
+      "link": "https://www.kbc.co.ke/nctc-trains-government-officials-on-crisis-communication/",
+      "summary": "Government officials have been urged to strengthen inter-agency coordination and adopt unified communication strategies to ensure accurate and timely information dissemination during security crises involving terrorism and violent extremism. The call was made during a three-day crisis communication sensitization training convened by the National Counterterrorism Centre (NCTC), which brought together officials from various government agencies [&#8230;] The post NCTC trains government officials on crisis communication appeared first on KBC Digital .",
+      "img": "https://www.kbc.co.ke/wp-content/uploads/2026/11/NTSC-1.jpg",
+      "pub_int": 1795191054,
+      "kind": "kenya",
+      "score": 398.5
+    },
+    {
+      "title": "Foreign affairs moves towards modernisation of diplomatic infrastructure through PPP framework",
+      "link": "https://www.kbc.co.ke/foreign-affairs-moves-towards-modernisation-of-diplomatic-infrastructure-through-ppp-framework/",
+      "summary": "Through the PPP framework, the Government seeks to progressively reduce rental expenditure, unlock the economic value of its existing properties, and redirect public resources towards other priority areas. The post Foreign affairs moves towards modernisation of diplomatic infrastructure through PPP framework appeared first on KBC Digital .",
+      "img": "https://www.kbc.co.ke/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-17.54.42.jpeg",
+      "pub_int": 1795187893,
+      "kind": "kenya",
+      "score": 397.0
+    },
+    {
+      "title": "TikTok, ICC Kenya to equip creators with digital commerce skills",
+      "link": "https://www.kbc.co.ke/tiktok-icc-kenya-to-equip-creators-with-digital-commerce-skills/",
+      "summary": "Kenyan digital creators are set to gain digital commerce skills to help them scale up and reach wider number of online consumers. This follows the launch of the first flagship Digital Commerce Labs (DCL) by TikTok and the International Chamber of Commerce (ICC). Under the partnership, TikTok and ICC target to train thousands of small [&#8230;] The post TikTok, ICC Kenya to equip creators with digital commerce skills appeared first on KBC Digital .",
+      "img": "https://www.kbc.co.ke/wp-content/uploads/2026/11/tiktok-dcl-scaled.jpg",
+      "pub_int": 1795186412,
+      "kind": "kenya",
+      "score": 395.5
+    },
+    {
+      "title": "UK Embassy in Nairobi celebrates King’s birthday by honouring Kenyan sports personalities",
+      "link": "https://www.kbc.co.ke/uk-embassy-in-nairobi-celebrates-kings-birthday-by-honouring-kenyan-sports-personalities/",
+      "summary": "British High Commissioner to Kenya Matt Baugh delivered the keynote address and the King’s message, reaffirming their continued support for the growth of Kenya’s sports globally. The post UK Embassy in Nairobi celebrates King&#8217;s birthday by honouring Kenyan sports personalities appeared first on KBC Digital .",
+      "img": "https://www.kbc.co.ke/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-17.06.56.jpeg",
+      "pub_int": 1795185278,
+      "kind": "kenya",
+      "score": 394.0
+    },
+    {
+      "title": "Kenya begins Ksh 774B commercial oil production in South Lokichar",
+      "link": "https://www.kbc.co.ke/kenya-begins-ksh-774b-commercial-oil-production-in-south-lokichar/",
+      "summary": "Gulf Energy E&#38;P BV SEZ has commenced its Ksh 774 billion ($6b) drilling and crude oil production in Turkana County. Speaking during the official spudding, which is the first step in drilling a well and marks the official start of operations, Energy and Petroleum Development Cabinet Secretary Opiyo who officiated the event in South Lokichar [&#8230;] The post Kenya begins Ksh 774B commercial oil production in South Lokichar appeared first on KBC Digital .",
+      "img": "https://www.kbc.co.ke/wp-content/uploads/2026/11/gulf-energy-oil.png",
+      "pub_int": 1795182766,
+      "kind": "kenya",
+      "score": 392.5
+    },
+    {
+      "title": "Judiciary still grapples with case backlog despite improved clearance rate",
+      "link": "https://www.kbc.co.ke/judiciary-still-grapples-with-case-backlog-despite-improved-clearance-rate/",
+      "summary": "Chief Justice Martha Koome says 341,412 cases have remained unresolved for more than a year despite a decline in the overall backlog. The post Judiciary still grapples with case backlog despite improved clearance rate appeared first on KBC Digital .",
+      "img": "https://www.kbc.co.ke/wp-content/uploads/2026/11/CJ-1-scaled.jpeg",
+      "pub_int": 1795180795,
+      "kind": "kenya",
+      "score": 391.0
+    },
+    {
+      "title": "Ksh800,000 cancer treatment benefit remains unchanged, SHA clarifies",
+      "link": "https://www.kbc.co.ke/ksh800000-cancer-treatment-benefit-remains-unchanged-sha-clarifies/",
+      "summary": "SHA CEO Dr Mercy Mwangangi says the recent changes affect how cancer treatment is approved and priced, but do not reduce the approved benefit. The post Ksh800,000 cancer treatment benefit remains unchanged, SHA clarifies appeared first on KBC Digital .",
+      "img": "https://www.kbc.co.ke/wp-content/uploads/2026/03/mercy.jpeg",
+      "pub_int": 1795175277,
+      "kind": "kenya",
+      "score": 389.5
+    },
+    {
+      "title": "Berlin collective, Keinemusic, lands in Kenya ahead of weekend concert",
+      "link": "https://www.kbc.co.ke/berlin-collective-keinemusic-lands-in-kenya-ahead-of-weekend-concert/",
+      "summary": "Their arrival comes as electronic dance music, particularly Afro house, gains a stronger foothold in Kenya. The post Berlin collective, Keinemusic, lands in Kenya ahead of weekend concert appeared first on KBC Digital .",
+      "img": "https://www.kbc.co.ke/wp-content/uploads/2026/11/Keinemusic-1.jpg",
+      "pub_int": 1795174715,
+      "kind": "kenya",
+      "score": 388.0
+    },
+    {
+      "title": "Man sentenced to 30 years for raping 80-year-old woman in Kiambu",
+      "link": "https://www.kbc.co.ke/man-sentenced-to-30-years-for-raping-80-year-old-woman-in-kiambu/",
+      "summary": "A 27-year-old man has been sentenced to 30 years in prison for raping an 80-year-old woman in Gatundu North, Kiambu County. Blessing Njoroge was also sentenced to eight years for burglary after Senior Principal Magistrate Wangeci Ngumi, sitting at Kamwangi Law Courts, found him guilty of the offences committed on the night of April 28, [&#8230;] The post Man sentenced to 30 years for raping 80-year-old woman in Kiambu appeared first on KBC Digital .",
+      "img": "https://www.kbc.co.ke/wp-content/uploads/2026/09/hammer-1.jpeg",
+      "pub_int": 1795173708,
+      "kind": "kenya",
+      "score": 386.5
+    }
+  ]
+}
